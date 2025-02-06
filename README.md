@@ -52,7 +52,7 @@ if the installation is aborted , check existing dkms modules and uninstall previ
 
 if you encounter any weird interface name , rename the Wireless interface by following below steps
 
-:point_right: [Change/Rename Network Interface](https://github.com/nlkguy/archer-t2u-plus-linux/blob/main/change_interface_name.md)
+:point_right: [Change/Rename Network Interface](https://github.com/nlkguy/archer-t2u-plus-linux/blob/main/change_interface_name.md) 
 
 
 ## Driver for Raspberry Pi (Raspbian OS / Kali)(ARM)
